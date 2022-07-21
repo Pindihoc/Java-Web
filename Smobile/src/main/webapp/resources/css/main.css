@@ -1,0 +1,30 @@
+/* set background color for layout component*/
+
+body {
+    padding-top: 56px;
+    color: gray !important;
+}
+
+header {
+    background-color: #242423;
+}
+
+nav {
+    background-color: #242423 !important;
+}
+
+main {
+    background-color: #F5CB5C;
+}
+
+footer {
+    background-color: #E8EDDF;
+}
+
+input:active {
+    box-shadow: none !important;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
